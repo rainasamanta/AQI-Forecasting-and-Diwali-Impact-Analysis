@@ -72,6 +72,7 @@ st.plotly_chart(fig_trend, use_container_width=True)
 st.divider()
 
 # Yearly stacked bar chart
+city_df["Year"] = pd.to_datetime(city_df["Date"]).dt.year
 yearly_bucket = (
     city_df.groupby(["Year", "AQI_Bucket"])
     .size()
