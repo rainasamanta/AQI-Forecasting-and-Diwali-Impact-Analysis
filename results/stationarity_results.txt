@@ -1,0 +1,88 @@
+ADF TEST RESULTS
+
+Bengaluru
+ADF Statistic: -7.0315
+p-value: 0.0
+Stationary
+
+Delhi
+ADF Statistic: -2.2292
+p-value: 0.1958
+Non-Stationary
+
+Kolkata
+ADF Statistic: -1.4875
+p-value: 0.5397
+Non-Stationary
+
+Mumbai
+ADF Statistic: -1.05
+p-value: 0.7346
+Non-Stationary
+
+
+KPSS TEST RESULTS
+
+Bengaluru
+KPSS Statistic: 0.0646
+p-value: 0.1
+Stationary
+
+Delhi
+KPSS Statistic: 0.0298
+p-value: 0.1
+Stationary
+
+Kolkata
+KPSS Statistic: 0.0807
+p-value: 0.1
+Stationary
+
+Mumbai
+KPSS Statistic: 0.0406
+p-value: 0.1
+Stationary
+
+
+ADF TEST RESULTS on Differenced Series
+
+Delhi
+ADF Statistic: -4.4586
+p-value: 0.0002
+Stationary
+
+Kolkata
+ADF Statistic: -3.392
+p-value: 0.0112
+Stationary
+
+Mumbai
+ADF Statistic: -7.4337
+p-value: 0.0
+Stationary
+
+
+KPSS TEST RESULTS on Differenced Series
+
+Delhi
+KPSS Statistic: 0.0269
+p-value: 0.1
+Stationary
+
+Kolkata
+KPSS Statistic: 0.0716
+p-value: 0.1
+Stationary
+
+Mumbai
+KPSS Statistic: 0.0308
+p-value: 0.1
+Stationary
+
+
+OCSB test and Canova-Hansen test
+
+Bengaluru — OCSB: D=0, CH: D=0
+Delhi — OCSB: D=1, CH: D=0
+Kolkata — OCSB: D=0, CH: D=0
+Mumbai — OCSB: D=0, CH: D=0

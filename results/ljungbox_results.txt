@@ -1,0 +1,17 @@
+LJUNG-BOX TEST RESULTS
+
+Bengaluru
+p-value: 0.0975
+Residuals are white noise
+
+Delhi
+p-value: 0.2802
+Residuals are white noise
+
+Kolkata
+p-value: 0.0438
+Residual autocorrelation remains
+
+Mumbai
+p-value: 0.0488
+Residual autocorrelation remains
