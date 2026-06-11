@@ -22,7 +22,7 @@ January 2019 – March 2025
 - `streamlit_app/`  interactive dashboard
 
 ## Dashboard
-[Live Streamlit App]([https://your-streamlit-app.streamlit.app](https://aqi-forecasting-and-diwali-impact-analysis-cytpmwz95f6ujpmi85y.streamlit.app/))
+[Live Streamlit App](https://aqi-forecasting-and-diwali-impact-analysis-cytpmwz95f6ujpmi85y.streamlit.app/)
 
 ## Analysis Pipeline
 1. Data cleaning and EDA
