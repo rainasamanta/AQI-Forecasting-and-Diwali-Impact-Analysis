@@ -10,7 +10,7 @@ df = pd.read_csv("data/aqi_master_clean.csv")
 df['Date'] = pd.to_datetime(df['Date'], format='mixed', dayfirst=True)
 df = df.sort_values(['City', 'Date'])
 
-metrics_df = pd.read_csv("data/sarima_forecast_metrics.csv")
+metrics_df = pd.read_csv("results/sarima_forecast_metrics.csv")
 
 # Monthly aggregation
 monthly_df = (
