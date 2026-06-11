@@ -6,8 +6,8 @@ import plotly.express as px
 df_main = pd.read_csv("data/aqi_master_clean.csv")
 df_main['Date'] = pd.to_datetime(df_main['Date'], format='mixed', dayfirst=True)
 
-diwali_summary = pd.read_csv("data/diwali_summary.csv")
-mannwhitney = pd.read_csv("data/diwali_mannwhitney_results.csv")
+diwali_summary = pd.read_csv("results/diwali_summary.csv")
+mannwhitney = pd.read_csv("results/diwali_mannwhitney_results.csv")
 
 st.title("Diwali Air Quality Impact")
 st.markdown("How does Diwali affect air quality across cities and years?")
