@@ -15,14 +15,14 @@ January 2019 – March 2025
 - Evaluate forecasting performance
 
 ## Project Structure
-- `scripts/` — Python analysis scripts (run in order 01 → 04)
-- `data/` — cleaned data and result CSVs
-- `plots/` — all visualisation outputs
-- `streamlit_app/` — interactive dashboard
-- `report/` — full project report (Word)
+- `data/`  cleaned data files
+- `scripts/`  Python analysis scripts
+- `plots/`  all visualisation outputs
+- `results/`  result CSVs and text files
+- `streamlit_app/`  interactive dashboard
 
 ## Dashboard
-Live app: [your streamlit URL here]
+[Live Streamlit App]([https://your-streamlit-app.streamlit.app](https://aqi-forecasting-and-diwali-impact-analysis-cytpmwz95f6ujpmi85y.streamlit.app/))
 
 ## Analysis Pipeline
 1. Data cleaning and EDA
